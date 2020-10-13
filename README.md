@@ -16,11 +16,11 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 
 ## Overzicht
 * Programma van Eisen/ Plan van Aanpak (volgt)
-* [Job Stories](
+* [Job Stories](job-stories.md)
 
 * Gebruikersonderzoek
   * [0.1 DBCO App - Usability & Experience test](https://corona.sticktailapp.com/study/app-onderzoek-901/) - week 41
-  * 0.1 Sensitizer Teststraat Usability & Experience test - week 39
+  * 0 Sensitizer Teststraat Usability & Experience test - week 39
   * [GGD Meeloopdagen: BCO, hoe werkt het?](https://corona.sticktailapp.com/study/bco-onderzoek-hoe-werkt-het-655/) week 37 - 40 
   * Versie 0.0 Adviesdocument vanuit het onderzoek van CoronaMelder voor DBCO App. [Dit is wat een BCO App kan zijn op basis van de lessen van CoronaMelder](https://docs.google.com/document/d/1zNSkXXfYkcB18r2-kMdSy5Nujs0_wg39Y3Ee3P_1a1s/edit?usp=sharing)
   * Het gebruikersonderzoek dat voor CoronaMelder is gedaan, vormt de basis voor het onderzoek voor DBCO App. De inzichten uit dit onderzoek vind je in de [repo CoronaMelder design](https://github.com/minvws/nl-covid19-notification-app-design).
@@ -30,4 +30,4 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
   * [Versie 0.1 Sensitizer voor de teststraat - papier](https://www.figma.com/file/Vndv3EXiJDQ98livrJJcaT/Public-App2-Digitale-ondersteuning-bron-en-contactonderzoek?node-id=3%3A15580) - week 39.
 
 * GGD portaal
-Bron en contactonderzoek is een samenwerking tussen de GGD-medewerker en de persoon met corona (in GGD-jargon 'index' genoemd). Deze repo richt zich vooral op de designs voor de index. De designs voor de GGD-medewerker (het ondersteundende portaal) volgt later, eventueel in een eigen repo. 
+  * Bron en contactonderzoek is een samenwerking tussen de GGD-medewerker en de persoon met corona (in GGD-jargon 'index' genoemd). Deze repo richt zich vooral op de designs voor de index. De designs voor de GGD-medewerker (het ondersteundende portaal) volgt later, eventueel in een eigen repo. 
