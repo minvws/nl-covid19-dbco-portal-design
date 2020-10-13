@@ -10,7 +10,7 @@ In een job story wordt elke ontwerpuitdaging gevat in een taak, daarin worden de
 
 ## Job stories voor burgers 
 
-# Index case
+### Index case
 De index is de persoon die een positief testresultaat ontvangt. Voor de index hebben we in het kader van het bron- en contactonderzoek de volgende job stories geïdentificeerd. Stories die in MVP van de app worden gefaciliteerd zijn bold.
 
   * Als ik te horen krijg dat ik COVID-19 heb, wil ik weten wat ik moet doen om te voorkomen dat ik anderen besmet. 
@@ -22,31 +22,31 @@ De index is de persoon die een positief testresultaat ontvangt. Voor de index he
   * Als ik in quarantaine moet en daardoor niet kan werken, wil ik dat de GGD contact opneemt met mijn werkgever om uit te leggen dat dat moet en vragen te beantwoorden, zodat mijn relatie met mijn werkgever geen schade oploopt.
   * Als ik huisgenoten heb, wil ik weten hoe ik contact met hun kan beperken, zodat ik kan voorkomen dat ik hen besmet.
 
-# Huisgenoten en nauwe contacten van de index
+### Huisgenoten en nauwe contacten van de index
   * Als ik risico heb gelopen besmet te zijn geraakt, wil ik dat zo snel mogelijk weten, zodat ik maatregelen kan nemen.
   * Als ik risico heb gelopen besmet te zijn geraakt, wil ik weten wanneer dat was, en onder welke omstandigheden, zodat ik zelf ook een inschatting kan maken hoe groot die kans is geweest.
   * Als ik in contact ben geweest met iemand die COVID-19 heeft, wil ik weten of ik besmet ben, zodat ik daar rekening mee kan houden.
   * Als ik in contact ben geweest met iemand die COVID-19 heeft, wil ik weten wat ik nog wel en niet mag, en hoe lang, zodat ik me daarop kan instellen.
 
-# Overige contacten van de index
+### Overige contacten van de index
   * Als ik risico heb gelopen besmet te zijn geraakt, wil ik weten wanneer dat was, en onder welke omstandigheden, zodat ik zelf ook een inschatting kan maken hoe groot die kans is geweest.
 
-# Werkgever 
+### Werkgever 
   * Als ik door de GGD benadert wordt dat een van mijn werknemers besmet is geraakt, wil ik weten wat dat voor diens inzetbaarheid en die van andere werknemers betekent, zodat ik daar rekening mee kan houden.
 
-# Verantwoordelijke over locatie waar mogelijk transmissie heeft plaatsgevonden
+### Verantwoordelijke over locatie waar mogelijk transmissie heeft plaatsgevonden
   * Als ik door de GGD benadert wordt dat op mijn locatie iemand is geweest die besmettelijk was, wil ik weten wat ik anderen die op mijn locatie zijn geweest moet vertellen, zodat zij weten waar ze aan toe zijn.
 
 ## Job stories BCO medewerker
 Deze job stories zijn geïdentificeerd tijdens observatie van BCO gesprekken. Stories die in MVP van de app worden gefaciliteerd zijn bold.
 
-# Algemeen
+### Algemeen
   * Als ik een index spreek, wil ik in het gesprek voldoende ruimte bieden voor de emoties en gevoelens van de index, zodat deze zich gehoord voelt, en bereid is volledig mee te werken.
   * Als ik een index spreek, wil ik de urgentie van het uitvoeren van bron- en contactonderzoek overbrengen op de index, zodat er snel een volledig beeld is over welke (nauwe) contacten gewaarschuwd moeten worden.
   * Als ik met een index aan de telefoon ben, wil ik mijn aandacht kunnen richten op het gesprek, zodat ik geen informatie mis en de juiste vragen blijf stellen.
   * Als ik een index spreek, wil ik overzicht houden over de case, zodat ik weet waar ik moet doorvragen en waar mogelijk nog blinde vlekken zitten, zodat ik geen risicovolle contacten mis.
 
-# Contactonderzoek
+### Contactonderzoek
   * Als in een index spreek, wil ik duidelijkheid krijgen over het moment dat symptomen begonnen, zodat ik kan inschatten in welke periode de index besmettelijk was.
   * Als ik een index spreek, wil ik in beeld hebben wat de index tijdens diens besmettelijke periode allemaal gedaan heeft, zodat ik kan inschatten waar en wanneer zich risicovolle ontmoetingen hebben voorgedaan.
   * Als ik me een beeld heb gevormd van alle risicovolle situaties en contexten, wil ik weten welke personen daarbij aanwezig waren, zodat ik kan inschatten wie van hen op welke manier gewaarschuwd moeten worden.
@@ -59,17 +59,17 @@ Deze job stories zijn geïdentificeerd tijdens observatie van BCO gesprekken. St
   * Als ik de gegevens ontvang van een contact dat buiten mijn GGD regio woont, moet ik diens gegevens overdragen aan de verantwoordelijke GGD regio, zodat zij het informeren en monitoren op kunnen pakken.
   * Als ik een index aan de lijn krijg die de uitslag van de test al heeft gehoord, wil ik dat de index zelf geen onjuiste conclusies heeft getrokken over de categorisering van contacten, zodat contacten altijd het juiste handelingsperspectief krijgen.
 
-# Brononderzoek
+### Brononderzoek
   * Als ik een index spreek, wil ik weten waar en wanneer de index mogelijk besmet is geraakt, zodat ik samen met mijn collega’s brandhaarden kan identificeren. 
 
-# Handelingsperspectief
+### Handelingsperspectief
   * Als ik de index of (nauwe) contacten spreek, wil ik hen duidelijk uitleggen aan welke maatregelen zij zich moeten houden, zodat ze het virus niet verder verspreiden
   * Als het handelingsperspectief is veranderd, wil ik daarvan op de hoogte zijn, zodat ik weet wat ik de index of diens (nauwe) contacten moet vertellen.
   * Als ik (nauwe) contacten spreek, wil ik hen op het hart drukken dat ze zich laten testen bij het ontstaan van klachten, maar niet zonder klachten, zodat nauwe contacten zich na een negatieve testuitslag zonder klachten niet vals veilig voelen, maar wel maatregelen nemen als ze wél besmet zijn.
   * Als ik (nauwe) contacten spreek, wil ik met hen verifiëren of de aard, duur en afstand van het contact overeenkomen met wat ik van de index heb vernomen, zodat ik de categorisering eventueel kan bijstellen.
   * Als ik (nauwe) contacten spreek, wil ik aanvullende informatie over de context en situatie van het contact verwerken, zodat niet via de index geïdentificeerde contacten alsnog kunnen worden meegenomen.
 
-# Administratie en vastlegging
+### Administratie en vastlegging
   * **Als ik de gegevens van een index of diens nauwe contacten ontvang, wil ik die zonder moeite kunnen gebruiken om contact met hen op te kunnen nemen, zodat ik mijn tijd en aandacht efficiënt kan besteden.** 
   * Als ik de gegevens van een index of (nauw) contact in het systeem zet, wil ik voorkomen dat mensen dubbel in het systeem komen, zodat ik en mijn collega’s geen belangrijke informatie over het hoofd zien.
   * Als ik de gegevens van een context in het systeem zet, dan wil ik zeker weten dat ik de naam goed schrijf, zodat er voor één locatie niet twee verschillende contexten in het systeem komen te staan.
