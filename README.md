@@ -16,6 +16,7 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 
 ## Overzicht
 * Programma van Eisen/ Plan van Aanpak (volgt)
+* Ontwerpprincipes (volgt)
 * [Job Stories](job-stories.md)
 
 * Gebruikersonderzoek
