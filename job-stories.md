@@ -1,4 +1,4 @@
-# User Stories / Jobs to be Done
+# User / Job stories
 
 ## Primaire doel
 * Patiënten zelf in staat te stellen digitaal gegevens over hun contacten aan te leveren, in plaats van een inventarisatie door een BCO-medewerker; dit verkort de tijd per BCO voor de GGD en versnelt het BCO-proces.
