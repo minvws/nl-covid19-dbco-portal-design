@@ -5,7 +5,7 @@
 * In geval de GGD werkt met afgeschaald Bron- en Contactonderzoek: de index zelf in staat stellen het juiste handelingsadvies te delen met diens contacten.
 
 ## Vertaling doelen naar job stories
-Vanuit de GGD is een Programma van Eisen (volgt) opgesteld waaraan de app moet voldoen. Op basis van contextueel onderzoek in het BCO proces hebben we de gestelde doelen en bijbehorende ontwerpuitdaging vertaald in job stories. Elke job maakt een deel van het proces en de daarbij horende context/situatie, doelen en gewenste resultaten concreet. Per job story kan worden beoordeeld in hoeverre het uiteindelijke product deze volledig automatiseert, volledig ondersteunt, deels ondersteunt, of niet ondersteunt. 
+Op basis van contextueel onderzoek in het BCO proces hebben we de gestelde doelen en bijbehorende ontwerpuitdaging vertaald in job stories. Elke job maakt een deel van het proces en de daarbij horende context/situatie, doelen en gewenste resultaten concreet. Per job story kan worden beoordeeld in hoeverre het uiteindelijke product deze volledig automatiseert, volledig ondersteunt, deels ondersteunt, of niet ondersteunt. 
 In een job story wordt elke ontwerpuitdaging gevat in een taak, daarin worden de aanleiding en context beschreven, de motivatie/het doel en het gewenste resultaat. We volgen het format “Als ik [aanleiding/context], wil ik [motivatie/doel], zodat [gewenst resultaat].
 
 ## Job stories voor burgers 
