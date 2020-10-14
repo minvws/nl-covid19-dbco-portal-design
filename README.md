@@ -30,4 +30,4 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
   * [Versie 0.1 Sensitizer voor de teststraat - papier](https://www.figma.com/file/Vndv3EXiJDQ98livrJJcaT/Public-App2-Digitale-ondersteuning-bron-en-contactonderzoek?node-id=3%3A15580) - week 39.
 
 * GGD portaal
-  * Bron en contactonderzoek is een samenwerking tussen de GGD-medewerker en de persoon met corona (in GGD-jargon 'index' genoemd). Deze repo richt zich vooral op de designs voor de index. De designs voor de GGD-medewerker (het ondersteundende portaal) volgt later, eventueel in een eigen repo. 
+  * Bron en contactonderzoek is een samenwerking tussen de GGD-medewerker en de persoon met corona (in GGD-jargon 'index' genoemd). Deze repo richt zich vooral op de designs voor de index. De designs voor de GGD-medewerker (het ondersteundende portaal) volgt later, eventueel in een eigen repository. 
