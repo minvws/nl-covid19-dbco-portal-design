@@ -15,7 +15,6 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 3. Voor de teksten die op GitHub gepubliceerd zijn, kun je via GitHub suggesties doen
 
 ## Overzicht
-* Programma van Eisen/ Plan van Aanpak (volgt)
 * Ontwerpprincipes (volgt)
 * [Job Stories](job-stories.md)
 
