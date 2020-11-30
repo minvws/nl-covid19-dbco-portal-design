@@ -10,7 +10,7 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 
 ## Hoe kun je bijdragen?
 
-1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#corona-app2` kanaal](https://codefornl.slack.com/archives/C01C25PP95L). 
+1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#corona-app-ggd-contact` kanaal](https://codefornl.slack.com/archives/C01C25PP95L). 
 2. Je kunt actief bijdragen aan het ontwerp via comments of een eigen ontworpen suggestie. Je hebt hiervoor toegang nodig tot de read-only Figma. Stuur een DM aan Joris Leker (via Slack) met je e-mailadres om toegang te vragen
 3. Voor de teksten die op GitHub gepubliceerd zijn, kun je via GitHub suggesties doen
 
