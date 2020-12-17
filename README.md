@@ -19,6 +19,11 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 * [Job Stories](job-stories.md)
 
 * Gebruikersonderzoek
+  * [BCO App - MVP en zelf-BCO]
+(https://corona.sticktailapp.com/study-share/npYnhWU68qGm/bco-app-mvp-en-zelf-bco-679/) - week 48 
+  * [BCO App - Future features](https://corona.sticktailapp.com/study-share/Jg2gSZAHMhKV/bco-app-future-features-682/) - week 46
+  * [BCO app - doe-het-zelf BCO]
+(https://corona.sticktailapp.com/study-share/DyUDdbuStbJ3/bco-app-doe-het-zelf-bco-996/) - week 43
   * [0.1 DBCO App - Usability & Experience test](https://corona.sticktailapp.com/study/app-onderzoek-901/) - week 41
   * 0 Sensitizer Teststraat Usability & Experience test - week 39
   * [GGD Meeloopdagen: BCO, hoe werkt het?](https://corona.sticktailapp.com/study/bco-onderzoek-hoe-werkt-het-655/) week 37 - 40 
