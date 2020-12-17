@@ -10,7 +10,7 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 
 ## Hoe kun je bijdragen?
 
-1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#corona-app2` kanaal](https://codefornl.slack.com/archives/C01C25PP95L). 
+1. Word lid van de [CodeForNL Slack](https://doemee.codefor.nl/) en ga naar het [`#corona-app-ggd-contact` kanaal](https://codefornl.slack.com/archives/C01C25PP95L). 
 2. Je kunt actief bijdragen aan het ontwerp via comments of een eigen ontworpen suggestie. Je hebt hiervoor toegang nodig tot de read-only Figma. Stuur een DM aan Joris Leker (via Slack) met je e-mailadres om toegang te vragen
 3. Voor de teksten die op GitHub gepubliceerd zijn, kun je via GitHub suggesties doen
 
@@ -26,7 +26,10 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
   * Het gebruikersonderzoek dat voor CoronaMelder is gedaan, vormt de basis voor het onderzoek voor DBCO App. De inzichten uit dit onderzoek vind je in de [repo CoronaMelder design](https://github.com/minvws/nl-covid19-notification-app-design).
   
 * Design
-  * [Versie 0.1 DBCO App](https://www.figma.com/file/Vndv3EXiJDQ98livrJJcaT/Public-App2-Digitale-ondersteuning-bron-en-contactonderzoek?node-id=0%3A1) - week 41
+  * [Versie 2.0](https://www.figma.com/file/Vndv3EXiJDQ98livrJJcaT/Bron-en-contactonderzoek-app-Read-only?node-id=567%3A1510)
+  * [Versie 1.0 praktijktest](https://www.figma.com/file/Vndv3EXiJDQ98livrJJcaT/Bron-en-contactonderzoek-app-Read-only?node-id=568%3A500)
+  * [Versie 0.9 Release candidate](https://www.figma.com/file/Vndv3EXiJDQ98livrJJcaT/Bron-en-contactonderzoek-app-Read-only?node-id=567%3A10651)
+  * [Versie 0.1 Concept](https://www.figma.com/file/Vndv3EXiJDQ98livrJJcaT/Public-App2-Digitale-ondersteuning-bron-en-contactonderzoek?node-id=0%3A1) - week 41
   * [Versie 0.1 Sensitizer voor de teststraat - papier](https://www.figma.com/file/Vndv3EXiJDQ98livrJJcaT/Public-App2-Digitale-ondersteuning-bron-en-contactonderzoek?node-id=3%3A15580) - week 39.
 
 * GGD portaal
