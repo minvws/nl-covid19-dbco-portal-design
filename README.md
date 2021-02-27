@@ -20,6 +20,7 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 
 * Gebruikersonderzoek
   * [BCO Portaal: hele vragenlijst, contacten en contexten](https://corona.sticktailapp.com/study-share/NJUKfeXep212/bco-portal-gehele-vragenlijst-en-contacten-contexten-475/) 17 december 2020 
+  * [Dubbeltest GGD Contact app en BCO portaal](https://corona.sticktailapp.com/study-share/OUfCTafrygA2/dubbeltest-ggdhn-app-en-portaal-374/) 10 december 2020
   * [Cluster analyse: wat is het en hoe werkt het](https://corona.sticktailapp.com/study-share/pNLYKdCv8tHl/clusters-analyseren-wat-is-het-en-hoe-werkt-het-523/) 24 november 2020
   * [BCO Portaal: Potentiële features](https://corona.sticktailapp.com/study-share/cqmd7lMgsQ2h/bco-portal-future-features-702/) 12 november 2020
   * [Werkverdeling](https://corona.sticktailapp.com/study-share/p48emdKhGZFY/werkverdeling-van-corona-cases-bij-ggd-en-703/) 4 november 2020
