@@ -25,6 +25,15 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
   * [BCO Portaal: Potentiële features](https://corona.sticktailapp.com/study-share/cqmd7lMgsQ2h/bco-portal-future-features-702/) 12 november 2020
   * [Werkverdeling](https://corona.sticktailapp.com/study-share/p48emdKhGZFY/werkverdeling-van-corona-cases-bij-ggd-en-703/) 4 november 2020
   * [BCO Onderzoek: hoe werkt het?](https://corona.sticktailapp.com/study-share/CYT0s3wossBS/bco-onderzoek-hoe-werkt-het-655/) september - oktober 2020
+
+n.b. dit onderzoek bouwt deels verder op inzichten opgedaan bij de GGD tijdens het ontwerpproces voor de COVID19 notificatie app CoronaMelder. De inzichten die daar zijn opgedaan zijn hier terug te vinden:
+  * [Inzichten meeloopdag GGD en test app-portaal 0.2](http://corona.sticktailapp.com/study-share/z7FWobsVMbIe/meelopen-en-test-ggd-169/) - 2020 week 29
+  * [Inzichten dubbeltest GGD en app-gebruikers](http://corona.sticktailapp.com/study-share/mgzWw55GdKxA/dubbeltest-app-app-portaal-115/) - 2020 week 29
+  * [Inzichten meeloopdag GGD en test app-portaal 0.1](http://corona.sticktailapp.com/study-share/pJjR4djzQYWt/app-portaal-testen-bij-de-ggd-714/) - 2020 week 28
+  * [Testen met 60+'ers](https://corona.sticktailapp.com/study-share/AavfftUW8jca/coronamelder-app-onderzoek-met-60ers-785/) - 2020 week 28
+  * [Inzichten meeloopdag GGD](http://corona.sticktailapp.com/study-share/r5XRgcAehLpB/meeloopdag-ggd-330/) - 2020 week 25
+  * [Inzichten meeloopdag Testfaciliteit](http://corona.sticktailapp.com/study-share/F29AF8mGiOUF/meelopen-in-testfaciliteit-644/) - 2020 week 24
+  * [Inzichten meeloopdag Bron- en Contactonderzoek GGD](http://corona.sticktailapp.com/study-share/tHbLG3OXvq3H/meeloopdag-ggd-bron-en-contactonderzoek-804/) - 2020 week 23
   
 * Design
   * [Feb 2021 - Vastlegging bron-en contactonderzoek](https://www.figma.com/file/nCnjFaqPwSiDApGynoE9A6/Untitled?node-id=0%3A1)
