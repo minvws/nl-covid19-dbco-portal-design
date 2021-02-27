@@ -1,4 +1,4 @@
-# COVID-19 Digitaal Bron en Contactonderzoek
+# COVID-19 BCO Portaal
 
 Het Ministerie van Volksgezondheid, Welzijn en Sport ontwikkelt een portaal om de GGD te ondersteunen in het bron en contactonderzoek om het coronavirus te bestrijden. In deze repo vindt je de designs iteratie en het onderzoek hiervoor. 
 
