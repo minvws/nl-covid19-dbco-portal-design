@@ -15,14 +15,15 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 3. Voor de teksten die op GitHub gepubliceerd zijn, kun je via GitHub suggesties doen
 
 ## Overzicht
-* Ontwerpprincipes (volgt)
+* [Ontwerpprincipes](design-principles)
 * [Job Stories](job-stories.md)
 
 * Gebruikersonderzoek
   * 
   
 * Design
-  * 
+  * [Feb 2021 - Vastlegging bron-en contactonderzoek](https://www.figma.com/file/nCnjFaqPwSiDApGynoE9A6/Untitled?node-id=0%3A1)
+  * [Dec 2020 - Koppelen GGD Contact app en uitwisselen gegevens](https://www.figma.com/file/nCnjFaqPwSiDApGynoE9A6/Untitled?node-id=0%3A1)
 
 * GGD Contact app
   * Bron en contactonderzoek is een samenwerking tussen de GGD-medewerker en de persoon met corona (in GGD-jargon 'index' genoemd). Deze repo richt zich op de het portaal voor GGD medewerkers. De designs voor de app voor de index is te vinden in [een eigen repository](https://github.com/minvws/nl-covid19-dbco-app-design). 
