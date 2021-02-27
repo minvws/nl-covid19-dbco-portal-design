@@ -19,14 +19,14 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 * [Job Stories](job-stories.md)
 
 * Gebruikersonderzoek
-  * [BCO Portaal: hele vragenlijst, contacten en contexten](https://corona.sticktailapp.com/study-share/NJUKfeXep212/bco-portal-gehele-vragenlijst-en-contacten-contexten-475/) 17 december 2020 
-  * [Dubbeltest GGD Contact app en BCO portaal](https://corona.sticktailapp.com/study-share/OUfCTafrygA2/dubbeltest-ggdhn-app-en-portaal-374/) 10 december 2020
+  * [BCO Portaal: hele vragenlijst, contacten en contexten](https://corona.sticktailapp.com/study-share/NJUKfeXep212/bco-portal-gehele-vragenlijst-en-contacten-contexten-475/) - 2020 week 51
+  * [Dubbeltest GGD Contact app en BCO portaal](https://corona.sticktailapp.com/study-share/OUfCTafrygA2/dubbeltest-ggdhn-app-en-portaal-374/) - 2020 week 50
   * [Cluster analyse: wat is het en hoe werkt het](https://corona.sticktailapp.com/study-share/pNLYKdCv8tHl/clusters-analyseren-wat-is-het-en-hoe-werkt-het-523/) 24 november 2020
-  * [BCO Portaal: Potentiële features](https://corona.sticktailapp.com/study-share/cqmd7lMgsQ2h/bco-portal-future-features-702/) 12 november 2020
-  * [Werkverdeling](https://corona.sticktailapp.com/study-share/p48emdKhGZFY/werkverdeling-van-corona-cases-bij-ggd-en-703/) 4 november 2020
-  * [BCO Onderzoek: hoe werkt het?](https://corona.sticktailapp.com/study-share/CYT0s3wossBS/bco-onderzoek-hoe-werkt-het-655/) september - oktober 2020
+  * [BCO Portaal: Potentiële features](https://corona.sticktailapp.com/study-share/cqmd7lMgsQ2h/bco-portal-future-features-702/) - 2020 week 46
+  * [Werkverdeling](https://corona.sticktailapp.com/study-share/p48emdKhGZFY/werkverdeling-van-corona-cases-bij-ggd-en-703/) - 2020 week 45
+  * [BCO Onderzoek: hoe werkt het?](https://corona.sticktailapp.com/study-share/CYT0s3wossBS/bco-onderzoek-hoe-werkt-het-655/) - 2020 week 27 t/m 41
 
-n.b. dit onderzoek bouwt deels verder op inzichten opgedaan bij de GGD tijdens het ontwerpproces voor de COVID19 notificatie app CoronaMelder. De inzichten die daar zijn opgedaan zijn hier terug te vinden:
+* Nb: het onderzoek in dit project bouwt deels verder op inzichten opgedaan bij de GGD tijdens het ontwerpproces voor de COVID19 notificatie app CoronaMelder. De inzichten die daar zijn opgedaan zijn hier terug te vinden:
   * [Inzichten meeloopdag GGD en test app-portaal 0.2](http://corona.sticktailapp.com/study-share/z7FWobsVMbIe/meelopen-en-test-ggd-169/) - 2020 week 29
   * [Inzichten dubbeltest GGD en app-gebruikers](http://corona.sticktailapp.com/study-share/mgzWw55GdKxA/dubbeltest-app-app-portaal-115/) - 2020 week 29
   * [Inzichten meeloopdag GGD en test app-portaal 0.1](http://corona.sticktailapp.com/study-share/pJjR4djzQYWt/app-portaal-testen-bij-de-ggd-714/) - 2020 week 28
