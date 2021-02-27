@@ -19,7 +19,11 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 * [Job Stories](job-stories.md)
 
 * Gebruikersonderzoek
-  * 
+  * https://corona.sticktailapp.com/study-share/NJUKfeXep212/bco-portal-gehele-vragenlijst-en-contacten-contexten-475/ 17 december 2020 
+  * https://corona.sticktailapp.com/study-share/pNLYKdCv8tHl/clusters-analyseren-wat-is-het-en-hoe-werkt-het-523/ 24 november 2020
+  * https://corona.sticktailapp.com/study-share/cqmd7lMgsQ2h/bco-portal-future-features-702/ 12 november 2020
+  * https://corona.sticktailapp.com/study-share/p48emdKhGZFY/werkverdeling-van-corona-cases-bij-ggd-en-703/ 4 november 2020
+  * https://corona.sticktailapp.com/study-share/CYT0s3wossBS/bco-onderzoek-hoe-werkt-het-655/ september - oktober 2020
   
 * Design
   * [Feb 2021 - Vastlegging bron-en contactonderzoek](https://www.figma.com/file/nCnjFaqPwSiDApGynoE9A6/Untitled?node-id=0%3A1)
