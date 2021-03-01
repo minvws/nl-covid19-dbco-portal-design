@@ -54,4 +54,4 @@ We hebben geen volledig overzicht van job stories van BCO coordinatoren. In de o
 
 ## Job stories voor burgers 
 
-* zie [job stories GGD Contact app](https://github.com/minvws/nl-covid19-dbco-app-design/job-stories.md)
+* zie [job stories GGD Contact app](https://github.com/minvws/nl-covid19-dbco-app-design/blob/main/job-stories.md)
