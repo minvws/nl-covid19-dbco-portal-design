@@ -35,7 +35,7 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
   * [Inzichten meeloopdag Bron- en Contactonderzoek GGD](http://corona.sticktailapp.com/study-share/tHbLG3OXvq3H/meeloopdag-ggd-bron-en-contactonderzoek-804/) - 2020 week 23
   
 * Design
-  * [dec 2020-ongoing - Vastlegging bron-en contactonderzoek](https://www.figma.com/file/nCnjFaqPwSiDApGynoE9A6/Untitled?node-id=0%3A1)
+  * [dec 2020-ongoing - Vastlegging bron-en contactonderzoek](https://www.figma.com/file/nCnjFaqPwSiDApGynoE9A6/?node-id=25%3A0)
   * [sept-dec 2020 - Koppelen GGD Contact app en uitwisselen gegevens](https://www.figma.com/file/nCnjFaqPwSiDApGynoE9A6/?node-id=25%3A0)
 
 * GGD Contact app
