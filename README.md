@@ -26,7 +26,7 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
   * [Werkverdeling](https://corona.sticktailapp.com/study-share/p48emdKhGZFY/werkverdeling-van-corona-cases-bij-ggd-en-703/) - 2020 week 45
   * [BCO Onderzoek: hoe werkt het?](https://corona.sticktailapp.com/study-share/CYT0s3wossBS/bco-onderzoek-hoe-werkt-het-655/) - 2020 week 27 t/m 41
 
-* Nb: het onderzoek in dit project bouwt deels verder op inzichten opgedaan bij de GGD tijdens het ontwerpproces voor de COVID19 notificatie app CoronaMelder. De inzichten die daar zijn opgedaan zijn hier terug te vinden:
+* Nb: het onderzoek in dit project bouwt deels verder op inzichten opgedaan bij de GGD tijdens het ontwerpproces voor de [COVID19 notificatie app CoronaMelder](https://github.com/minvws/nl-covid19-notification-app-design/blob/master/README.md). De inzichten die daar zijn opgedaan zijn hier terug te vinden:
   * [Inzichten meeloopdag GGD en test app-portaal 0.2](http://corona.sticktailapp.com/study-share/z7FWobsVMbIe/meelopen-en-test-ggd-169/) - 2020 week 29
   * [Inzichten dubbeltest GGD en app-gebruikers](http://corona.sticktailapp.com/study-share/mgzWw55GdKxA/dubbeltest-app-app-portaal-115/) - 2020 week 29
   * [Inzichten meeloopdag GGD en test app-portaal 0.1](http://corona.sticktailapp.com/study-share/pJjR4djzQYWt/app-portaal-testen-bij-de-ggd-714/) - 2020 week 28
