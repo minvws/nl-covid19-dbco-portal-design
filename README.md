@@ -15,7 +15,7 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
 3. Voor de teksten die op GitHub gepubliceerd zijn, kun je via GitHub suggesties doen
 
 ## Overzicht
-* [Ontwerpprincipes](design-principles)
+* [Ontwerpprincipes](design-principles.md)
 * [Job Stories](job-stories.md)
 
 * Gebruikersonderzoek
