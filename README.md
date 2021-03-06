@@ -39,4 +39,4 @@ Deze repo wordt regelmatig geupdate bij nieuwe iteraties. Het ontwikkelen en ont
   * [sept-dec 2020 - Koppelen GGD Contact app en uitwisselen gegevens](https://www.figma.com/file/nCnjFaqPwSiDApGynoE9A6/?node-id=25%3A0)
 
 * GGD Contact app
-  * Bron en contactonderzoek is een samenwerking tussen de GGD-medewerker en de persoon met corona (in GGD-jargon 'index' genoemd). Deze repo richt zich op de het portaal voor GGD medewerkers. De designs voor de app voor de index is te vinden in [een eigen repository](https://github.com/minvws/nl-covid19-dbco-app-design). 
+  * Bron en contactonderzoek is een samenwerking tussen de GGD-medewerker en de persoon met corona (in GGD-jargon 'index' genoemd). Deze repo richt zich op de het portaal voor GGD medewerkers. Onderzoek en designs voor de app voor de index zijn te vinden in [een eigen repository](https://github.com/minvws/nl-covid19-dbco-app-design). 
